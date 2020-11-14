@@ -5,7 +5,6 @@
     tools:context=".view.MainActivity">
 
     <data>
-
         <variable
             name="viewModel"
             type="study.kotlin.designpattern.viewmodel.MainViewModel" />
